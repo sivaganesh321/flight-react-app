@@ -114,3 +114,7 @@ Price Comparison
 Detailed Flight Information
 
 Demo Video
+https://www.loom.com/share/bdc4805cd0244fc7bd88e91a117ac222?sid=c058f9b5-2aed-4a29-bbe7-807d8c7a4e37  
+
+deployed here  
+https://react-flight-assignment.netlify.app/
