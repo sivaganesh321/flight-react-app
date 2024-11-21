@@ -16,7 +16,7 @@ Node.js (v14 or later)
 npm or Yarn
 React
 Tailwind CSS
-shadcn/ui Components
+modern ui Components
 
 Installation
 1. Clone the Repository
